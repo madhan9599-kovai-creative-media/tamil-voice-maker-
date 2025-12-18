@@ -1,0 +1,7 @@
+{
+  "name": "Tamil Voice Lab",
+  "description": "An advanced AI-powered Tamil text-to-speech generator that allows users to specify voice styles like 'cheerful', 'news reporter', or 'whisper' using Gemini 2.5 TTS technology.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
